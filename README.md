@@ -1,6 +1,6 @@
-# Antimicrobial Resistance (AMR) Prediction using Machine Learning
+# AMR Phenotype Prediction using Machine Learning and Data Augmentation
 
-This repository contains materials related to the research paper:
+This repository accompanies the research paper:
 
 **Improving Antimicrobial Resistance (AMR) Phenotype Prediction for Unseen Bacteria through Data Augmentation and Machine Learning**
 
@@ -127,6 +127,20 @@ https://doi.org/10.1145/3768322.3769015
 
 # Authors
 
-- Yeojin Jung — Arkansas State University  
-- Namkyeong Kim — Arkansas State University  
-- Donghoon Kim — Arkansas State University
+Yeojin Jung*  
+Namkyeong Kim*  
+Donghoon Kim  
+
+Arkansas State University
+
+---
+
+# Citation
+
+If you use this work, please cite:
+
+Jung, Y., Kim, N., Kim, D.  
+Improving Antimicrobial Resistance (AMR) Phenotype Prediction for Unseen Bacteria through Data Augmentation and Machine Learning.  
+ACM BCB Companion 2025.
+
+https://doi.org/10.1145/3768322.3769015
